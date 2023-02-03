@@ -16,7 +16,7 @@ let speedVal_bright = 0;
 let addVal_bright = 1;
 
 function preload(){
-  img = loadImage('assets/milano2.png');
+  img = loadImage('assets/milano5.png');
   
 }
 
