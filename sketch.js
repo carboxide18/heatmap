@@ -30,8 +30,8 @@ function setup() {
 }
 
 function draw() {
-  //image(img, 0, 0);
-  image(img, 0, 0, height*img.width/img.height, height);
+  image(img, 0, 0);
+  //image(img, 0, 0, height*img.width/img.height, height);
 
 
   for (let y = 0; y*CELL_SIZE < height;y++) {
